@@ -20,3 +20,6 @@ https://qiita.com/nanako_ut/items/b5393363b9e21d6342ea
 https://www.pytry3g.com/entry/2018/02/10/104607
 - Tkinter」gridを使用して綺麗に表示しよう（Python）
 https://aithii.com/2019/01/11/post-2551/
+
+##実行画像
+![act](https://github.com/SaitoSeiji/furieChenge/blob/edit/image/playImage.gif)
